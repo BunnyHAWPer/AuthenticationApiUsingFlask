@@ -1,3 +1,5 @@
-flask
-PyMongo
-bcrypt
+Flask
+Flask-PyMongo
+Werkzeug
+Flask-Uploads
+Flask-Bcrypt
