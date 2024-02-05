@@ -1,0 +1,3 @@
+flask
+PyMongo
+bcrypt
